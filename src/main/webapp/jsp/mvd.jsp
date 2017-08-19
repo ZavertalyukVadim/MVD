@@ -122,7 +122,7 @@
                     <h2>Меню</h2>
                 </header>
                 <ul>
-                    <li><a href="/main">Головна</a></li>
+                    <li><a href="/">Головна</a></li>
                     <li><a href="/contingent">Контингент</a></li>
                     <li><a href="/history">Icторiя закладу</a></li>
                     <li><a href="/reference">Довiдкова iнформацiя</a></li>
