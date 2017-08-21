@@ -130,18 +130,18 @@
                     <li>
                         <span class="opener">Напрямки дiяльностi</span>
                         <ul>
-                            <li><a href="/vlk">ВЛК</a></li>
-                            <li><a href="/profMed">Профiлактична медицина</a></li>
-                            <li><a href="/cpdtppv">ЦПДТППВ</a></li>
+                            <li><a href="/activity/vlk">ВЛК</a></li>
+                            <li><a href="/activity/profMed">Профiлактична медицина</a></li>
+                            <li><a href="/activity/cpdtppv">ЦПДТППВ</a></li>
                         </ul>
                     </li>
                     <li>
                         <span class="opener">Структура закладу</span>
                         <ul>
-                            <li><a href="/hospital">Лiкарня</a></li>
-                            <li><a href="/vlk">ВЛК</a></li>
-                            <li><a href="/cpd">ЦПД</a></li>
-                            <li><a href="/ses">СЕС</a></li>
+                            <li><a href="/structure/hospital">Лiкарня</a></li>
+                            <li><a href="/structure/vlk">ВЛК</a></li>
+                            <li><a href="/structure/cpd">ЦПД</a></li>
+                            <li><a href="/structure/ses">СЕС</a></li>
                         </ul>
                     </li>
                 </ul>

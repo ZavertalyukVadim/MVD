@@ -11,6 +11,60 @@ public class HomeController {
         return "mvd";
     }
 
+    @GetMapping(value = "/contingent")
+    public String contingent(){
+        return "contingent";
+    }
+
+    @GetMapping(value = "/history")
+    public String history(){
+        return "history";
+    }
+
+    @GetMapping(value = "/reference")
+    public String reference(){
+        return "reference";
+    }
+
+    @GetMapping(value = "/paid")
+    public String paid(){
+        return "paid";
+    }
+
+    @GetMapping(value = "/activity/vlk")
+    public String vlk(){
+        return "activityVlk";
+    }
+
+    @GetMapping(value = "/activity/profMed")
+    public String profMed(){
+        return "activityProfMed";
+    }
+
+    @GetMapping(value = "/activity/cpdtppv")
+    public String cpdtppv(){
+        return "activityCpdtppv";
+    }
+
+    @GetMapping(value = "/structure/hospital")
+    public String hospital(){
+        return "structureHospital";
+    }
+
+    @GetMapping(value = "/structure/vlk")
+    public String structureVlk(){
+        return "structureVlk";
+    }
+
+    @GetMapping(value = "/structure/cpd")
+    public String structureCpd(){
+        return "structureCpd";
+    }
+
+    @GetMapping(value = "/structure/ses")
+    public String structureSes(){
+        return "structureSes";
+    }
 //    @RequestMapping(value = "/registration", method = RequestMethod.POST)
 //    String addNewUser(@Valid User user,
 //                      BindingResult result) {
