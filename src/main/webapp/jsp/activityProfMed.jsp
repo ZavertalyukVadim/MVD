@@ -29,8 +29,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Hi, I’m Editorial<br/>
-                            by HTML5 UP</h1>
+                        <h1>Профiлактична медицина</h1>
                         <p>A free and fully responsive site template</p>
                     </header>
                     <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
@@ -81,30 +80,6 @@
                     </li>
                 </ul>
             </nav>
-
-            <!-- Section -->
-            <section>
-                <header class="major">
-                    <h2>Ante interdum</h2>
-                </header>
-                <div class="mini-posts">
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic07.jpg" alt=""/></a>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-                    </article>
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic08.jpg" alt=""/></a>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-                    </article>
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic09.jpg" alt=""/></a>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-                    </article>
-                </div>
-                <ul class="actions">
-                    <li><a href="#" class="button">More</a></li>
-                </ul>
-            </section>
 
             <!-- Section -->
             <section>
