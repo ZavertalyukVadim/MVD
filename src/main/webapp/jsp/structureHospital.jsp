@@ -30,19 +30,16 @@
                 <div class="content">
                     <header>
                         <h1>Лiкарня</h1>
-                        <p>A free and fully responsive site template</p>
                     </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
-                    <ul class="actions">
-                        <li><a href="#" class="button big">Learn More</a></li>
-                    </ul>
-                </div>
-                <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
-                </span>
+                    <div class="row">
+                        <div class="6u 12u$(small)">
+                            <ul>
+                                <li>Dolor etiam magna etiam.</li>
+                                <li>Sagittis lorem eleifend.</li>
+                                <li>Felis dolore viverra.</li>
+                            </ul>
+                        </div>
+                    </div>
             </section>
         </div>
     </div>
