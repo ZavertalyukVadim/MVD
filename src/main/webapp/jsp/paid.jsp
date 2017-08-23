@@ -90,18 +90,7 @@
                 </header>
                 <ul>
                     <li><a href="/">Головна</a></li>
-                    <li><a href="/contingent">Контингент</a></li>
-                    <li><a href="/history">Icторiя закладу</a></li>
-                    <li><a href="/reference">Довiдкова iнформацiя</a></li>
-                    <li><a href="/paid">Платнi послуги</a></li>
-                    <li>
-                        <span class="opener">Напрямки дiяльностi</span>
-                        <ul>
-                            <li><a href="/activity/vlk">ВЛК</a></li>
-                            <li><a href="/activity/profMed">Профiлактична медицина</a></li>
-                            <li><a href="/activity/cpdtppv">ЦПДТППВ</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="/contingent">Адмiнiстрацiя закладу</a></li>
                     <li>
                         <span class="opener">Структура закладу</span>
                         <ul>
@@ -111,6 +100,18 @@
                             <li><a href="/structure/ses">СЕС</a></li>
                         </ul>
                     </li>
+                    <li>
+                        <span class="opener">Напрямки дiяльностi</span>
+                        <ul>
+                            <li><a href="/activity/vlk">ВЛК</a></li>
+                            <li><a href="/activity/profMed">Профiлактична медицина</a></li>
+                            <li><a href="/activity/cpdtppv">ЦПДТППВ</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="/history">Icторiя закладу</a></li>
+                    <li><a href="/paid">Платнi послуги</a></li>
+                    <li><a href="/reference">Довiдкова iнформацiя</a></li>
                 </ul>
             </nav>
 
