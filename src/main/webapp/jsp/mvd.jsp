@@ -19,7 +19,7 @@
 
             <!-- Header -->
             <header id="header">
-                <a href="/" class="logo"><strong>DU TMO</strong></a>
+                <a href="/" class="logo"><strong>Лiкарня (з полiклiнiкою) Державноi установи "Територiальне медичне об'эднання Мiнiстерства внутрiшнiх справ Украiни по Черкаськiй областi"</strong></a>
                 <ul class="icons">
                     <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
                 </ul>
@@ -29,7 +29,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>МВД</h1>
+                        <h1>Новини</h1>
                     </header>
                     <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
                         congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
