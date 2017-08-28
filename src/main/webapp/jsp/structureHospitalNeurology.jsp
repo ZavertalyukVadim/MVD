@@ -5,8 +5,8 @@
 <head>
     <title>Неврологiя</title>
     <meta charset="utf-8"/>
-    <link rel="stylesheet" href="../resources/assets/css/main.css"/>
-    <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="../../resources/assets/css/main.css"/>
+    <link rel="stylesheet" href="../../resources/assets/css/font-awesome.min.css"/>
 </head>
 <body>
 
@@ -31,7 +31,7 @@
                         quam. Lorem ipsum dolor sit nullam.</p>
                 </div>
                 <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
+										<img src="../../resources/images/pic10.jpg" alt=""/>
                 </span>
             </section>
         </div>
@@ -40,12 +40,12 @@
 </div>
 
 <!-- Scripts -->
-<script src="<c:url value="../resources/assets/js/jquery.min.js"/>"></script>
-<script src="<c:url value="../resources/assets/js/skel.min.js"/>"></script>
-<script src="<c:url value="../resources/assets/js/util.js"/>"></script>
+<script src="../../resources/assets/js/jquery.min.js"></script>
+<script src="../../resources/assets/js/skel.min.js"></script>
+<script src="../../resources/assets/js/util.js"></script>
 <!--[if lte IE 8]>
-<script src="../resources/assets/js/ie/respond.min.js"></script><![endif]-->
-<script src="<c:url value="../resources/assets/js/main.js"/>"></script>
+<script src="../../resources/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="../../resources/assets/js/main.js"></script>
 
 </body>
 </html>

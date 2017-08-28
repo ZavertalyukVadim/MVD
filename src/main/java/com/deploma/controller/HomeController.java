@@ -36,6 +36,21 @@ public class HomeController {
         return "structureHospital";
     }
 
+    @GetMapping(value = "/structure/hospital/neurology")
+    public String hospitalNeurology(){
+        return "structureHospitalNeurology";
+    }
+
+    @GetMapping(value = "/structure/hospital/therapy")
+    public String hospitalTherapy(){
+        return "structureHospitalTherapy";
+    }
+
+    @GetMapping(value = "/structure/hospital/polyclinic")
+    public String hospitalPolyclinic(){
+        return "structureHospitalPolyclinic";
+    }
+
     @GetMapping(value = "/structure/vlk")
     public String structureVlk(){
         return "structureVlk";
