@@ -12,8 +12,8 @@
                 <li>
                     <span class="opener">Структура закладу</span>
                     <ul>
-                        <li><a href="/structure/hospital">Лiкарня</a></li>
-                        <li><a href="/structure/vlk">ВЛК</a></li>
+                        <li><a href="/structure/hospital">Лiкарня (з полiклiнiкою)</a></li>
+                        <li><a href="/structure/vlk">Вiйськово-лiкарська комiсiя</a></li>
                         <li><a href="/structure/cpd">ЦПД</a></li>
                         <li><a href="/structure/ses">СЕС</a></li>
                     </ul>
@@ -21,9 +21,11 @@
                 <li>
                     <span class="opener">Напрямки дiяльностi</span>
                     <ul>
-                        <li><a href="/activity/vlk">ВЛК</a></li>
-                        <li><a href="/activity/profMed">Профiлактична медицина</a></li>
-                        <li><a href="/activity/cpdtppv">ЦПДТППВ</a></li>
+                        <li><a href="/activity/ldr">Лiкувально-дiагностична робота</a></li>
+                        <li><a href="/activity/vle">Вiйськово-лiкарська єкспертиза</a></li>
+                        <li><a href="/activity/mo">Медичнi огляди</a></li>
+                        <li><a href="/activity/ptpd">Психiатрична та псигологiчна допомога</a></li>
+                        <li><a href="/activity/skltr">Санаторно-курортне лiкування  та реабiлiтацiя</a></li>
                     </ul>
                 </li>
 

@@ -31,21 +31,6 @@ public class HomeController {
         return "paid";
     }
 
-    @GetMapping(value = "/activity/vlk")
-    public String vlk(){
-        return "activityVlk";
-    }
-
-    @GetMapping(value = "/activity/profMed")
-    public String profMed(){
-        return "activityProfMed";
-    }
-
-    @GetMapping(value = "/activity/cpdtppv")
-    public String cpdtppv(){
-        return "activityCpdtppv";
-    }
-
     @GetMapping(value = "/structure/hospital")
     public String hospital(){
         return "structureHospital";
@@ -64,6 +49,31 @@ public class HomeController {
     @GetMapping(value = "/structure/ses")
     public String structureSes(){
         return "structureSes";
+    }
+
+    @GetMapping(value = "/activity/vle")
+    public String vle(){
+        return "activityVle";
+    }
+
+    @GetMapping(value = "/activity/ldr")
+    public String ldr(){
+        return "activityLdr";
+    }
+
+    @GetMapping(value = "/activity/mo")
+    public String mo(){
+        return "activityMo";
+    }
+
+    @GetMapping(value = "/activity/ptpd")
+    public String ptpd(){
+        return "activityPtpd";
+    }
+
+    @GetMapping(value = "/activity/skltr")
+    public String Skltr(){
+        return "activitySkltr";
     }
 //    @RequestMapping(value = "/registration", method = RequestMethod.POST)
 //    String addNewUser(@Valid User user,

@@ -29,7 +29,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>ВЛК</h1>
+                        <h1>Вiйськово-лiкарська єкспертиза</h1>
                     </header>
                     <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
                         congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
