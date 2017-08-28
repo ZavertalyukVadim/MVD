@@ -19,28 +19,28 @@
             <jsp:include page="../jsp/header.jsp"/>
 
             <!-- Banner -->
-            <section id="banner">
-                <div class="content">
-                    <header>
-                        <h1>Новини</h1>
-                    </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
-                    <ul class="actions">
-                        <li><a href="#" class="button big">Learn More</a></li>
-                    </ul>
-                </div>
-                <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
-									</span>
-            </section>
+            <%--<section id="banner">--%>
+                <%--<div class="content">--%>
+                    <%--<header>--%>
+                        <%--<h1>Новини</h1>--%>
+                    <%--</header>--%>
+                    <%--<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum--%>
+                        <%--congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.--%>
+                        <%--Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac--%>
+                        <%--quam. Lorem ipsum dolor sit nullam.</p>--%>
+                    <%--<ul class="actions">--%>
+                        <%--<li><a href="#" class="button big">Learn More</a></li>--%>
+                    <%--</ul>--%>
+                <%--</div>--%>
+                <%--<span class="image object">--%>
+										<%--<img src="../resources/images/pic10.jpg" alt=""/>--%>
+									<%--</span>--%>
+            <%--</section>--%>
 
             <!-- Section -->
             <section>
                 <header class="major">
-                    <h2>Ipsum sed dolor</h2>
+                    <h2>Новини</h2>
                 </header>
                 <div class="posts">
                     <article>
