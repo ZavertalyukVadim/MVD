@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Медичнi огляди</title>
+    <title>Терапiя</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Медичнi огляди</h1>
+                        <h1>Терапiя</h1>
                     </header>
                     <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
                         congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
@@ -36,7 +36,6 @@
             </section>
         </div>
     </div>
-
     <jsp:include page="../jsp/sidebar.jsp"/>
 </div>
 

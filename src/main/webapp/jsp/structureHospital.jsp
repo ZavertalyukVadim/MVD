@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Лiкарня</title>
+    <title>Лiкарня (з полiклiнiкою)</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -23,14 +23,14 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Лiкарня</h1>
+                        <h1>Лiкарня (з полiклiнiкою)</h1>
                     </header>
                     <div class="row">
                         <div class="6u 12u$(small)">
                             <ul>
-                                <li>Dolor etiam magna etiam.</li>
-                                <li>Sagittis lorem eleifend.</li>
-                                <li>Felis dolore viverra.</li>
+                                <li><a href="/structure/hospital/neurology">Неврологiя</a></li>
+                                <li><a href="/structure/hospital/therapy">Терапiя</a></li>
+                                <li><a href="/structure/hospital/polyclinic">Полiклiнiка</a></li>
                             </ul>
                         </div>
                     </div>
