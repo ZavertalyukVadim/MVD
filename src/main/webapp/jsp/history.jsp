@@ -17,13 +17,7 @@
     <div id="main">
         <div class="inner">
 
-            <!-- Header -->
-            <header id="header">
-                <a href="/" class="logo"><strong>DU TMO</strong></a>
-                <ul class="icons">
-                    <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                </ul>
-            </header>
+            <jsp:include page="../jsp/header.jsp"/>
 
             <!-- Banner -->
             <section>
