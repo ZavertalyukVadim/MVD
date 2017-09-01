@@ -13,9 +13,9 @@
                     <span class="opener">Структура закладу</span>
                     <ul>
                         <li><a href="/structure/hospital">Лiкарня (з полiклiнiкою)</a></li>
-                        <li><a href="/structure/vlk">Вiйськово-лiкарська комiсiя</a></li>
-                        <li><a href="/structure/cpd">ЦПД</a></li>
-                        <li><a href="/structure/ses">СЕС</a></li>
+                        <li><a href="/structure/vlk">Медична (вiйськово-лiкарська) комiсiя</a></li>
+                        <li><a href="/structure/cpd">Центр психiатричноi допомоги та професiйного психофiзiологiчного вiдбору</a></li>
+                        <li><a href="/structure/ses">Санiтарно-епiдемiологiчна станцiя</a></li>
                     </ul>
                 </li>
                 <li>
@@ -24,7 +24,7 @@
                         <li><a href="/activity/ldr">Лiкувально-дiагностична робота</a></li>
                         <li><a href="/activity/vle">Вiйськово-лiкарська єкспертиза</a></li>
                         <li><a href="/activity/mo">Медичнi огляди</a></li>
-                        <li><a href="/activity/ptpd">Психiатрична та псигологiчна допомога</a></li>
+                        <li><a href="/activity/ptpd">Психiатрична та психологiчна допомога</a></li>
                         <li><a href="/activity/skltr">Санаторно-курортне лiкування  та реабiлiтацiя</a></li>
                     </ul>
                 </li>
