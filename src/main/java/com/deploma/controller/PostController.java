@@ -28,16 +28,16 @@ public class PostController {
         return "/";
     }
 
-    @PostMapping(value = "/{id}/update")
+    @GetMapping(value = "/{id}/update")
     public String updatePost(@PathVariable(value = "id")Integer id, @RequestParam("title") String title, @RequestParam("description") String description) {
         postService.updatePost(id,title,description);
         return "/"+id;
     }
 
-    @PostMapping(value = "/{id}/delete")
+    @GetMapping(value = "/{id}/delete")
     public String deletePost(@PathVariable(value = "id") Integer id) {
         postService.deletePost(id);
-        return "/";
+        return "redirect:/";
     }
 
 

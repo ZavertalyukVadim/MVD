@@ -21,15 +21,21 @@
 
             <!-- Banner -->
             <section id="banner">
+
                 <div class="content">
                     <header>
                         <h1>  ${post.title}</h1>
+                        <ul class="icons">
+                            <li><a methods="POST" href="/post/${post.id}/update" class="icon fa fa-pencil"><span class="label">edit</span></a></li>
+                            <li><a methods="POST" href="/post/${post.id}/delete" class="icon fa fa-trash-o"><span class="label">remove</span></a></li>
+                        </ul>
                     </header>
                     <p>  ${post.description}</p>
                 </div>
-                <span class="image object">
+                <span class="image main">
 										<img src="../resources/images/pic10.jpg" alt=""/>
                 </span>
+
             </section>
         </div>
     </div>
