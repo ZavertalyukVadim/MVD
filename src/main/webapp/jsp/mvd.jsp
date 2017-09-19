@@ -34,7 +34,21 @@
                         </ul>
                     </article>
                     </c:forEach>
-                    <%--<article>--%>
+                </div>
+                <div>
+                    <ul class="pagination">
+                        <li><span class="button disabled">Prev</span></li>
+                        <li><a href="#" class="page active">1</a></li>
+                        <li><a href="#" class="page">2</a></li>
+                        <li><a href="#" class="page">3</a></li>
+                        <li><span>&hellip;</span></li>
+                        <li><a href="#" class="page">8</a></li>
+                        <li><a href="#" class="page">9</a></li>
+                        <li><a href="#" class="page">10</a></li>
+                        <li><a href="#" class="button">Next</a></li>
+                    </ul>
+                </div>
+                <%--<article>--%>
                         <%--<a href="#" class="image"><img src="../resources/images/pic02.jpg" alt=""/></a>--%>
                         <%--<h3>Nulla amet dolore</h3>--%>
                         <%--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis--%>
@@ -79,7 +93,7 @@
                             <%--<li><a href="#" class="button">More</a></li>--%>
                         <%--</ul>--%>
                     <%--</article>--%>
-                </div>
+                <%--</div>--%>
             </section>
 
         </div>

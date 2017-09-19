@@ -2793,7 +2793,7 @@ ul.actions.fit.small li {
 ul.pagination {
 	cursor: default;
 	list-style: none;
-	padding-left: 0;
+	padding-left: 30%;
 }
 
 ul.pagination li {
