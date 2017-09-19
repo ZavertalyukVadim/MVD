@@ -24,60 +24,61 @@
                     <h2>Новини</h2>
                 </header>
                 <div class="posts">
+                    <c:forEach items="${posts}" var="post">
                     <article>
                         <a href="#" class="image"><img src="../resources/images/pic01.jpg" alt=""/></a>
-                        <h3>Interdum aenean</h3>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis
-                            ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+                        <h3>${post.title}</h3>
+                        <p>${post.description}</p>
                         <ul class="actions">
                             <li><a href="#" class="button">More</a></li>
                         </ul>
                     </article>
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic02.jpg" alt=""/></a>
-                        <h3>Nulla amet dolore</h3>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis
-                            ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        <ul class="actions">
-                            <li><a href="#" class="button">More</a></li>
-                        </ul>
-                    </article>
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic03.jpg" alt=""/></a>
-                        <h3>Tempus ullamcorper</h3>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis
-                            ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        <ul class="actions">
-                            <li><a href="#" class="button">More</a></li>
-                        </ul>
-                    </article>
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic04.jpg" alt=""/></a>
-                        <h3>Sed etiam facilis</h3>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis
-                            ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        <ul class="actions">
-                            <li><a href="#" class="button">More</a></li>
-                        </ul>
-                    </article>
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic05.jpg" alt=""/></a>
-                        <h3>Feugiat lorem aenean</h3>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis
-                            ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        <ul class="actions">
-                            <li><a href="#" class="button">More</a></li>
-                        </ul>
-                    </article>
-                    <article>
-                        <a href="#" class="image"><img src="../resources/images/pic06.jpg" alt=""/></a>
-                        <h3>Amet varius aliquam</h3>
-                        <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis
-                            ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-                        <ul class="actions">
-                            <li><a href="#" class="button">More</a></li>
-                        </ul>
-                    </article>
+                    </c:forEach>
+                    <%--<article>--%>
+                        <%--<a href="#" class="image"><img src="../resources/images/pic02.jpg" alt=""/></a>--%>
+                        <%--<h3>Nulla amet dolore</h3>--%>
+                        <%--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis--%>
+                            <%--ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>--%>
+                        <%--<ul class="actions">--%>
+                            <%--<li><a href="#" class="button">More</a></li>--%>
+                        <%--</ul>--%>
+                    <%--</article>--%>
+                    <%--<article>--%>
+                        <%--<a href="#" class="image"><img src="../resources/images/pic03.jpg" alt=""/></a>--%>
+                        <%--<h3>Tempus ullamcorper</h3>--%>
+                        <%--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis--%>
+                            <%--ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>--%>
+                        <%--<ul class="actions">--%>
+                            <%--<li><a href="#" class="button">More</a></li>--%>
+                        <%--</ul>--%>
+                    <%--</article>--%>
+                    <%--<article>--%>
+                        <%--<a href="#" class="image"><img src="../resources/images/pic04.jpg" alt=""/></a>--%>
+                        <%--<h3>Sed etiam facilis</h3>--%>
+                        <%--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis--%>
+                            <%--ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>--%>
+                        <%--<ul class="actions">--%>
+                            <%--<li><a href="#" class="button">More</a></li>--%>
+                        <%--</ul>--%>
+                    <%--</article>--%>
+                    <%--<article>--%>
+                        <%--<a href="#" class="image"><img src="../resources/images/pic05.jpg" alt=""/></a>--%>
+                        <%--<h3>Feugiat lorem aenean</h3>--%>
+                        <%--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis--%>
+                            <%--ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>--%>
+                        <%--<ul class="actions">--%>
+                            <%--<li><a href="#" class="button">More</a></li>--%>
+                        <%--</ul>--%>
+                    <%--</article>--%>
+                    <%--<article>--%>
+                        <%--<a href="#" class="image"><img src="../resources/images/pic06.jpg" alt=""/></a>--%>
+                        <%--<h3>Amet varius aliquam</h3>--%>
+                        <%--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis--%>
+                            <%--ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>--%>
+                        <%--<ul class="actions">--%>
+                            <%--<li><a href="#" class="button">More</a></li>--%>
+                        <%--</ul>--%>
+                    <%--</article>--%>
                 </div>
             </section>
 
