@@ -30,7 +30,7 @@
                         <h3>${post.title}</h3>
                         <p>${post.description}</p>
                         <ul class="actions">
-                            <li><a href="#" class="button">More</a></li>
+                            <li><a href="/post/${post.id}" class="button">More</a></li>
                         </ul>
                     </article>
                     </c:forEach>

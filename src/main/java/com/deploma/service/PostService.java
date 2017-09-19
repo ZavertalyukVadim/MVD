@@ -22,6 +22,28 @@ public class PostService {
         return postDao.findAll();
     }
 
+    public Post getPost(Integer id){
+        return postDao.findOne(id);
+    }
+
+    public void deletePost(Integer id){
+        postDao.delete(id);
+    }
+
+    public void createPost(String title,String description){
+        Post post = new Post();
+        post.setTitle(title);
+        post.setDescription(description);
+        postDao.save(post);
+    }
+
+    public void updatePost(Integer id,String title,String description){
+        Post post = postDao.findOne(id);
+        post.setTitle(title);
+        post.setDescription(description);
+        postDao.save(post);
+    }
+
     private void test() {
         Post post = new Post();
         post.setTitle("title");
