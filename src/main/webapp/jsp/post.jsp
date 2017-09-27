@@ -26,8 +26,8 @@
                     <header>
                         <h1>  ${post.title}</h1>
                         <ul class="icons">
-                            <li><a methods="POST" href="/post/${post.id}/update" class="icon fa fa-pencil"><span class="label">edit</span></a></li>
-                            <li><a methods="POST" href="/post/${post.id}/delete" class="icon fa fa-trash-o"><span class="label">remove</span></a></li>
+                            <li><a href="/post/${post.id}/update" class="icon fa fa-pencil"><span class="label">edit</span></a></li>
+                            <li><a href="/post/${post.id}/delete" class="icon fa fa-trash-o"><span class="label">remove</span></a></li>
                         </ul>
                     </header>
                     <p>  ${post.description}</p>

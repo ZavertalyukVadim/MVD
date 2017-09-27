@@ -43,19 +43,20 @@
                 ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus
                 aliquam.</p>
             <ul class="contact">
-                <li class="fa-envelope-o"><a href="#">information@untitled.tld</a></li>
-                <li class="fa-phone">(000) 000-0000</li>
-                <li class="fa-home">1234 Somewhere Road #8254<br/>
-                    Nashville, TN 00000-0000
+                <li class="fa-envelope-o">vmz_cherk@ukr.net</li>
+                <li class="fa-phone">45-21-15 (Приймальна)</li>
+                <li class="fa-phone">37-51-55 (Реєстратура)</li>
+                <li class="fa-home">18009, м.Черкаси<br/>
+                    вул. Грузиненка 1
                 </li>
             </ul>
         </section>
 
-        <!-- Footer -->
-        <footer id="footer">
-            <p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>.
-                Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-        </footer>
+        <%--<!-- Footer -->--%>
+        <%--<footer id="footer">--%>
+            <%--<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>.--%>
+                <%--Design: <a href="https://html5up.net">HTML5 UP</a>.</p>--%>
+        <%--</footer>--%>
 
     </div>
 

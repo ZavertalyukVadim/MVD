@@ -22,6 +22,9 @@
             <section>
                 <header class="major">
                     <h2>Новини</h2>
+                    <%--<ul class="actions">--%>
+                        <%--<li><a href="#" class="button big">Big</a></li>--%>
+                    <%--</ul>--%>
                 </header>
                 <div class="posts">
                     <c:forEach items="${posts}" var="post">

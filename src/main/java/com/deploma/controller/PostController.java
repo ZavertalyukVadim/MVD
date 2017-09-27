@@ -31,7 +31,7 @@ public class PostController {
     @GetMapping(value = "/{id}/update")
     public String updatePost(@PathVariable(value = "id")Integer id, @RequestParam("title") String title, @RequestParam("description") String description) {
         postService.updatePost(id,title,description);
-        return "/"+id;
+        return "redirect:/"+id;
     }
 
     @GetMapping(value = "/{id}/delete")
@@ -39,6 +39,4 @@ public class PostController {
         postService.deletePost(id);
         return "redirect:/";
     }
-
-
 }
