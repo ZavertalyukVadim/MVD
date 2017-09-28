@@ -39,16 +39,20 @@
             <header class="major">
                 <h2>Контактна iнформацiя</h2>
             </header>
-            <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem
-                ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus
-                aliquam.</p>
+            <p>Графiк роботи:</p>
+            <p>Понедiлок - П'ятниця з 8.30 до 17.00</p>
             <ul class="contact">
                 <li class="fa-envelope-o">vmz_cherk@ukr.net</li>
                 <li class="fa-phone">45-21-15 (Приймальна)</li>
                 <li class="fa-phone">37-51-55 (Реєстратура)</li>
+                <li class="fa-phone">45-10-05 (Терапевтичне вiддiлення)</li>
+                <li class="fa-phone">45-11-49 (Неврологiчне вiддiлення)</li>
+                <li class="fa-phone">45-10-18, 45-10-21 (Черговий лiкар в вечiрнiй та нiчний час, не робочi днi:)</li>
+
                 <li class="fa-home">18009, м.Черкаси<br/>
                     вул. Грузиненка 1
                 </li>
+
             </ul>
         </section>
 
