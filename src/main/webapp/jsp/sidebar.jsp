@@ -22,8 +22,8 @@
                     <span class="opener">Напрямки дiяльностi</span>
                     <ul>
                         <li><a href="/activity/ldr">Лiкувально-дiагностична робота</a></li>
-                        <li><a href="/activity/vle">Вiйськово-лiкарська єкспертиза</a></li>
                         <li><a href="/activity/mo">Медичнi огляди</a></li>
+                        <li><a href="/activity/vle">Вiйськово-лiкарська єкспертиза</a></li>
                         <li><a href="/activity/ptpd">Психiатрична та психологiчна допомога</a></li>
                         <li><a href="/activity/skltr">Санаторно-курортне лiкування  та реабiлiтацiя</a></li>
                     </ul>
