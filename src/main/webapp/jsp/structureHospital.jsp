@@ -30,8 +30,8 @@
                                 категорії. Очолює лікарню з 1982р.</span>
                             <ul>
                                 <li><a href="/structure/hospital/polyclinic">Полiклiнiка</a></li>
-                                <li><a href="/structure/hospital/therapy">Терапiя</a></li>
-                                <li><a href="/structure/hospital/neurology">Неврологiя</a></li>
+                                <li><a href="/structure/hospital/therapy">Терапевтичне відділення</a></li>
+                                <li><a href="/structure/hospital/neurology">Неврологічне відділення</a></li>
                                 <li><a href="/structure/hospital/supportsServices">Допоміжні служби</a></li>
                             </ul>
                 </div>
