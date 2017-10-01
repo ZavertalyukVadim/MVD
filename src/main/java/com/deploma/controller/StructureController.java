@@ -41,4 +41,9 @@ public class StructureController {
     public String structureSes(){
         return "structureSes";
     }
+
+    @GetMapping(value = "/hospital/supportsServices")
+    public String hospitalSupportsServices(){
+        return "structureHospitalSupportsServices";
+    }
 }

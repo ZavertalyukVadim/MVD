@@ -23,17 +23,19 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Лiкарня (з полiклiнiкою)</h1>
+                        <h1>Структура лікарні (з поліклінікою)</h1>
                     </header>
-                    <div class="row">
-                        <div class="6u 12u$(small)">
+
+                            <span class="image fit"><img src="../resources/images/pic11.jpg" alt="" /></span>
+                            <p>Начальник лікарні (з поліклінікою) - Тюльпа Сергій Андрійович, лікар вищої
+                                категорії. Очолює лікарню з 1982р.</p>
                             <ul>
-                                <li><a href="/structure/hospital/neurology">Неврологiя</a></li>
-                                <li><a href="/structure/hospital/therapy">Терапiя</a></li>
                                 <li><a href="/structure/hospital/polyclinic">Полiклiнiка</a></li>
+                                <li><a href="/structure/hospital/therapy">Терапiя</a></li>
+                                <li><a href="/structure/hospital/neurology">Неврологiя</a></li>
+                                <li><a href="/structure/hospital/supportsServices">Допоміжні служби</a></li>
                             </ul>
-                        </div>
-                    </div>
+                </div>
             </section>
         </div>
     </div>
