@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Терапiя</title>
+    <title>Терапевтичне відділення</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../../resources/assets/css/font-awesome.min.css"/>
@@ -23,16 +23,18 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Терапiя</h1>
+                        <h2>Терапевтичне відділення.</h2>
                     </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
+                    <header>
+                        <h4>Потужність відділення 50 ліжок.</h4>
+                    </header>
+                    <span class="image fit"><img src="../../resources/images/pic11.jpg" alt="" />Начальник відділення – Береза Валентина Миколаївна,лікар вищої категорії</span>
+                    <p>Лікарі-ординатори:</p>
+                    <ul>
+                        <li>Хорунжа Алла Миколаївна,лікар-терапевт вищої категорії,</li>
+                        <li>Матвійчук Олександр Степанович,лікар терапевт вищої категорії.</li>
+                    </ul>
                 </div>
-                <span class="image object">
-										<img src="../../resources/images/pic10.jpg" alt=""/>
-                </span>
             </section>
         </div>
     </div>
