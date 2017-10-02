@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>ЦПД</title>
+    <title>Центр Пд та ППВ</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -23,16 +23,43 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>ЦПД</h1>
+                        <h2>Структура Центру психіатричноі допомоги та професійного психофізіологічного відбору</h2>
                     </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
+                    <p></p>
+                    <div class="table-wrapper">
+                        <table class="alt">
+                            <caption> Начальник Центру, лікар-психіат</caption>
+                            <tbody>
+                            <tr>
+                                <td>Відділення амбулаторноі психіатричної допомоги</td>
+                                <td>Кабінет психопрофілактики та професійного психофізіологічного відбору</td>
+                            </tr>
+                            <tr>
+                                <td>лікар-психіатр - 1</td>
+                                <td>лікар з функціольної діагностики - 1</td>
+                            </tr>
+                            <tr>
+                                <td>практичний психолог - 1</td>
+                                <td>практичний психолог - 1</td>
+                            </tr>
+                            <tr>
+                                <td>сестра медична - 1</td>
+                                <td>сестра медична - 1</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <ul>
+                        <li>Начальник Центру ПД та ППв - лікар-психіатр Борщ Олексій Васильович</li>
+                        <li>Лікар-психіатр ВАПД - Ригайло Віра Сергіївна</li>
+                        <li>Практичний психолог ВАПД - Блінова Вікторія Вітольдівна </li>
+                        <li>Сестра Медична ВАПД - Афанасьєва Тетяна Миколаївна </li>
+                        <li>Лікар з функціональної діагностики КПППВ /психофізіолог/ - Попович Людмила Михайлівна</li>
+                        <li>Практичний психолог КПППВ - Замниборщ Ірина Юріївна</li>
+                        <li>Сестра медична КПППВ - Собко Вікторія Володимирівна </li>
+                    </ul>
+
                 </div>
-                <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
-                </span>
             </section>
         </div>
     </div>
