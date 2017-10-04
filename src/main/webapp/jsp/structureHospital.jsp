@@ -32,7 +32,7 @@
                                 <li><a href="/structure/hospital/polyclinic">Полiклiнiка</a></li>
                                 <li><a href="/structure/hospital/therapy">Терапевтичне відділення</a></li>
                                 <li><a href="/structure/hospital/neurology">Неврологічне відділення</a></li>
-                                <li><a href="/structure/hospital/supportsServices">Допоміжні служби</a></li>
+                                <li><a href="/structure/hospital/supportsServices">Параклiнiчнi служби</a></li>
                             </ul>
                 </div>
             </section>

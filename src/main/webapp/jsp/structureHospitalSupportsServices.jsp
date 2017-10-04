@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Допоміжні служби</title>
+    <title>Параклiнiчнi служби</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../../resources/assets/css/font-awesome.min.css"/>
@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Допоміжні служби</h1>
+                        <h1>Параклiнiчнi служби</h1>
                     </header>
                     <ol>
                         <li>Рентгенологічний кабінет</li>
