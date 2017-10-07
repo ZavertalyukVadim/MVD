@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>СЕС</title>
+    <title>САНІТАРНО – ЕПІДЕМІОЛОГІЧНА СТАНЦІЯ</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -22,17 +22,65 @@
             <!-- Banner -->
             <section id="banner">
                 <div class="content">
-                    <header>
-                        <h1>СЕС</h1>
-                    </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
+                    <div class="table-wrapper">
+                        <table class="alt">
+                            <thead>
+                            <tr>
+                                <th>Керівництво</th>
+                                <th>Лікарський персонал</th>
+                                <th>Середній медичний
+                                    персонал
+                                </th>
+                                <th>Молодший медичний
+                                    персонал
+                                </th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>Начальник станції - лікар
+                                    Якубовська Олеся
+                                    Миколаївна
+                                </td>
+                                <td>Лікар із загальної гігієни
+                                    (Радзієвський Віталій
+                                    Вікторович)
+                                </td>
+                                <td>Помічник лікаря – епідеміолога
+                                    (Небилиця Наталія Василівна,
+                                    Безугла Олена Павлівна
+                                    (декретна відпустка)
+                                </td>
+                                <td>Молодша медична сестра
+                                    (Касаткіна Тетяна
+                                    Вікторівна)
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1"></td>
+                                <td>Лікар епідеміолог
+                                    (Харченко Елеонора
+                                    Вікторівна)
+                                </td>
+                                <td>Лаборант з бактеріології
+                                    (Курінна Галина Іванівна)
+                                </td>
+                                <td colspan="1"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="1"></td>
+                                <td>Лікар – бактеріолог
+                                    (Папач Людмила
+                                    Анатоліївна)
+                                </td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
-                <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
-                </span>
+
             </section>
         </div>
     </div>
