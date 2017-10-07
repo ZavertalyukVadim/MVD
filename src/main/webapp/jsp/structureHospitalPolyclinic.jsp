@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Полiклiнiка</h1>
+                        <h1>Структура Полiклiнiки</h1>
                     </header>
                     <header>
                         <h4>Поліклініка з пропускною спроможністю до 300 відвідувань в зміну.</h4>

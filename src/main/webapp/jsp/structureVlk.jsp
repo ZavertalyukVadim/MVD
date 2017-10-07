@@ -23,16 +23,13 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>ВЛК</h1>
+                        <h1>Структура ВЛК</h1>
                     </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
+                    <p>Голова комісії – Гарбар Людмила Миколаївна</p>
+                    <p>Лікар-терапевт – Краснодимська Олена Михайлівна</p>
+                    <p>Лікар-невропатолог – Авер’янова Тетяна Іванівна</p>
+                    <p>Лікар-хірург – Васильченко Дмитро Сергійович</p>
                 </div>
-                <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
-                </span>
             </section>
         </div>
     </div>

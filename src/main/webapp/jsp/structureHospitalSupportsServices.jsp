@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Параклiнiчнi служби</h1>
+                        <h1>Структура Параклiнiчних служб</h1>
                     </header>
                     <ol>
                         <li>Рентгенологічний кабінет</li>
