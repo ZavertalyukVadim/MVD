@@ -22,6 +22,9 @@
             <!-- Banner -->
             <section id="banner">
                 <div class="content">
+                    <header>
+                        <h2>САНІТАРНО – ЕПІДЕМІОЛОГІЧНА СТАНЦІЯ</h2>
+                    </header>
                     <div class="table-wrapper">
                         <table class="alt">
                             <thead>
