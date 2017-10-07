@@ -2764,6 +2764,10 @@ ul.actions.vertical.small li:first-child {
 	padding-top: 0;
 }
 
+.centerText{
+	text-align: center;
+}
+
 ul.actions.fit {
 	display: table;
 	margin-left: -1em;

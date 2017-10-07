@@ -28,7 +28,7 @@
                     <header>
                         <h4>Потужність відділення 50 ліжок.</h4>
                     </header>
-                    <span class="image fit"><img src="../../resources/images/pic11.jpg" alt="" />Начальник відділення – Береза Валентина Миколаївна, лікар вищої категорії</span>
+                    <span class="image fit"><img src="../../resources/images/Bereza.JPG" alt="" /><p class="centerText">Начальник відділення – Береза Валентина Миколаївна, лікар вищої категорії</p></span>
                     <p>Лікарі-ординатори:</p>
                     <ul>
                         <li>Хорунжа Алла Миколаївна, лікар-терапевт вищої категорії,</li>

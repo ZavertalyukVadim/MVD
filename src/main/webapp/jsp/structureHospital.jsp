@@ -26,8 +26,9 @@
                         <h1>Структура лікарні (з поліклінікою)</h1>
                     </header>
 
-                            <span class="image fit"><img src="../resources/images/pic10.jpg" alt="" />Начальник лікарні (з поліклінікою) - Тюльпа Сергій Андрійович, лікар вищої
-                                категорії. Очолює лікарню з 1982р.</span>
+                            <span class="image fit"><img src="../resources/images/tylpa.png" alt="" />
+                                <p class="centerText">Начальник лікарні (з поліклінікою) - Тюльпа Сергій Андрійович, лікар вищої
+                                    категорії. Очолює лікарню з 1982р.</p></span>
                             <ul>
                                 <li><a href="/structure/hospital/polyclinic">Полiклiнiка</a></li>
                                 <li><a href="/structure/hospital/therapy">Терапевтичне відділення</a></li>
