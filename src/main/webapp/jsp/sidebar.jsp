@@ -14,7 +14,7 @@
                     <ul>
                         <li><a href="/structure/hospital">Лiкарня (з полiклiнiкою)</a></li>
                         <li><a href="/structure/vlk">Медична (вiйськово-лiкарська) комiсiя</a></li>
-                        <li><a href="/structure/cpd">Центр психiатричноi допомоги та професiйного психофiзiологiчного вiдбору</a></li>
+                        <li><a href="/structure/cpd">Центр психiатричної допомоги та професiйного психофiзiологiчного вiдбору</a></li>
                         <li><a href="/structure/ses">Санiтарно-епiдемiологiчна станцiя</a></li>
                     </ul>
                 </li>
