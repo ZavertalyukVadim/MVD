@@ -25,7 +25,6 @@
                     <header>
                         <h1>Адмiнiстрацiя закладу</h1>
                     </header>
-
                     <span class="image fit"><img src="../resources/images/Zavoritniy.JPG" alt=""/>
                                 <p class="centerText">Начальник установи</p>
                         <p class="centerText">Заворітній Володимир Григорович</p></span>
