@@ -26,16 +26,15 @@
                         <h2>Адмiнiстрацiя закладу</h2>
                     </header>
                     <span class="image fit"><img src="../resources/images/Zavoritniy.JPG" alt=""/>
-                                <p class="centerText">Начальник установи</p>
-                        <p class="centerText">Заворітній Володимир Григорович</p></span>
+                                <p class="centerText">Начальник установи <br>
+                      Заворітній Володимир Григорович</p></span>
                     <hr class="major"/>
                     <span class="image fit"><img src="../resources/images/Pidgorna.JPG" alt=""/>
-                                <p class="centerText">Заступник начальника з економічних питань</p>
-                        <p class="centerText">Підгорна Тетяна Олегівна</p></span>
+                                <p class="centerText">Заступник начальника з економічних питань <br>
+                      Підгорна Тетяна Олегівна</p></span>
                     <hr class="major"/>
                     <span class="image fit"><img src="../resources/images/Popadenko.JPG" alt=""/>
-                                <p class="centerText">Заступник начальника з технічних питань</p>
-                        <p class="centerText">Попаденко Олександр Миколайович</p></span>
+                                <p class="centerText">Заступник начальника з технічних питань <br> Попаденко Олександр Миколайович</p></span>
 
                 </div>
             </section>
