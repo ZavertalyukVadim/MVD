@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Медичнi огляди</h1>
+                        <h2>Медичнi огляди</h2>
                     </header>
                     <ol>
 

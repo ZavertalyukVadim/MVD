@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Структура лікарні (з поліклінікою)</h1>
+                        <h2>Структура лікарні (з поліклінікою)</h2>
                     </header>
 
                             <span class="image fit"><img src="../resources/images/Tylpa2.JPG" alt="" />

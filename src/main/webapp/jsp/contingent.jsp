@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h1>Адмiнiстрацiя закладу</h1>
+                        <h2>Адмiнiстрацiя закладу</h2>
                     </header>
                     <span class="image fit"><img src="../resources/images/Zavoritniy.JPG" alt=""/>
                                 <p class="centerText">Начальник установи</p>

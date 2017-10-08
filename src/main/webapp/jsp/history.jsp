@@ -22,7 +22,7 @@
             <!-- Banner -->
             <section>
                 <header class="main">
-                    <h1>Icторiя закладу</h1>
+                    <h2>Icторiя закладу</h2>
                 </header>
 
                 <span class="image main"><img src="../resources/images/building.png" alt=""/></span>

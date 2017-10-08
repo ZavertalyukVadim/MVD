@@ -24,7 +24,7 @@
 
                 <div class="content">
                     <header>
-                        <h1>  ${post.title}</h1>
+                        <h2>  ${post.title}</h2>
                         <ul class="icons">
                             <li><a href="/post/${post.id}/update" class="icon fa fa-pencil"><span class="label">edit</span></a></li>
                             <li><a href="/post/${post.id}/delete" class="icon fa fa-trash-o"><span class="label">remove</span></a></li>
