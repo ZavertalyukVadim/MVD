@@ -14,7 +14,8 @@
                     <ul>
                         <li><a href="/structure/hospital">Лiкарня (з полiклiнiкою)</a></li>
                         <li><a href="/structure/vlk">Медична (вiйськово-лiкарська) комiсiя</a></li>
-                        <li><a href="/structure/cpd">Центр психiатричної допомоги та професiйного психофiзiологiчного вiдбору</a></li>
+                        <li><a href="/structure/cpd">Центр психiатричної допомоги та професiйного психофiзiологiчного
+                            вiдбору</a></li>
                         <li><a href="/structure/ses">Санiтарно-епiдемiологiчна станцiя</a></li>
                     </ul>
                 </li>
@@ -25,11 +26,10 @@
                         <li><a href="/activity/mo">Медичнi огляди</a></li>
                         <li><a href="/activity/vle">Вiйськово-лiкарська єкспертиза</a></li>
                         <li><a href="/activity/ptpd">Психiатрична та психологiчна допомога</a></li>
-                        <li><a href="/activity/skltr">Санаторно-курортне лiкування  та реабiлiтацiя</a></li>
                         <li><a href="/activity/ses">Санiтарно-епiдемiологiчна станцiя</a></li>
                     </ul>
                 </li>
-
+                <li><a href="/activity/skltr">Санаторно-курортне лiкування та реабiлiтацiя</a></li>
                 <li><a href="/history">Icторiя закладу</a></li>
                 <li><a href="/paid">Платнi послуги</a></li>
                 <li><a href="/reference">Довiдкова iнформацiя</a></li>
@@ -59,8 +59,8 @@
 
         <%--<!-- Footer -->--%>
         <%--<footer id="footer">--%>
-            <%--<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>.--%>
-                <%--Design: <a href="https://html5up.net">HTML5 UP</a>.</p>--%>
+        <%--<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>.--%>
+        <%--Design: <a href="https://html5up.net">HTML5 UP</a>.</p>--%>
         <%--</footer>--%>
 
     </div>
