@@ -39,4 +39,9 @@ public class MenuController {
     public String informationForPublication(){
         return "informationForPublication";
     }
+
+    @GetMapping(value = "/photoGallery")
+    public String photoGallery(){
+        return "photoGallery";
+    }
 }
