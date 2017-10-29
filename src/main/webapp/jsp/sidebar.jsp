@@ -30,6 +30,8 @@
                     </ul>
                 </li>
                 <li><a href="/skltr">Санаторно-курортне лiкування та реабiлiтацiя</a></li>
+                <li><a href="/sendAboutCorruption">Повідомити про корупцію</a></li>
+                <li><a href="/informationForPublication">Iнформація для оприлюднення</a></li>
                 <li><a href="/history">Icторiя закладу</a></li>
                 <li><a href="/paid">Платнi послуги</a></li>
                 <li><a href="/reference">Довiдкова iнформацiя</a></li>

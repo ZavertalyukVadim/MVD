@@ -29,4 +29,14 @@ public class MenuController {
     public String skltr(){
         return "skltr";
     }
+
+    @GetMapping(value = "/sendAboutCorruption")
+    public String sendAboutCorruption(){
+        return "sendAboutCorruption";
+    }
+
+    @GetMapping(value = "/informationForPublication")
+    public String informationForPublication(){
+        return "informationForPublication";
+    }
 }
