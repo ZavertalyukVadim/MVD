@@ -29,7 +29,7 @@
                         <li><a href="/activity/ses">Санiтарно-епiдемiологiчна станцiя</a></li>
                     </ul>
                 </li>
-                <li><a href="/activity/skltr">Санаторно-курортне лiкування та реабiлiтацiя</a></li>
+                <li><a href="/skltr">Санаторно-курортне лiкування та реабiлiтацiя</a></li>
                 <li><a href="/history">Icторiя закладу</a></li>
                 <li><a href="/paid">Платнi послуги</a></li>
                 <li><a href="/reference">Довiдкова iнформацiя</a></li>

@@ -24,4 +24,9 @@ public class MenuController {
     public String paid(){
         return "paid";
     }
+
+    @GetMapping(value = "/skltr")
+    public String skltr(){
+        return "skltr";
+    }
 }

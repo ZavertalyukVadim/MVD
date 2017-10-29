@@ -28,11 +28,6 @@ public class ActivityController {
         return "activityPtpd";
     }
 
-    @GetMapping(value = "/skltr")
-    public String Skltr(){
-        return "activitySkltr";
-    }
-
     @GetMapping(value = "/ses")
     public String Ses(){
         return "activitySes";
