@@ -21,8 +21,18 @@
             <!-- Section -->
             <section>
                 <h2>Державна установа ″Територіальне медичне об′єднання МВС
-                    України по Черкаській області″ - </h2>
-                <p> є самостійним державним
+                    України по Черкаській області″</h2>
+
+                <span class="image fit"><img src="../resources/images/home.JPG" alt="" /></span>
+                <div class="box alt">
+                    <div class="row 50% uniform">
+                        <div class="4u"><span class="image fit"><img src="../resources/images/license-page-001.jpg" alt="" /></span></div>
+                        <div class="4u"><span class="image fit"><img src="../resources/images/akredetation_sertificate-page-001.jpg" alt="" /></span></div>
+                        <div class="4u$"><span class="image fit"><img src="../resources/images/sertificateIso-page-001.jpg" alt="" /></span></div>
+                    </div>
+                </div>
+                <p> Державна установа ″Територіальне медичне об′єднання МВС
+                    України по Черкаській області″ - є самостійним державним
                     багатопрофільним закладом охорони здоров′я, що належить до сфери
                     управління МВС і забезпечує медичним обслуговуванням відомчі та пільгові
                     категорії громадян, що проживають та працюють в Черкаській області, в
