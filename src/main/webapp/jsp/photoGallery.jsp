@@ -25,10 +25,10 @@
                 <div id="block-for-slider">
                     <div id="viewport">
                         <ul id="slidewrapper">
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="1" class="slide-img"></li>
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="2" class="slide-img"></li>
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="3" class="slide-img"></li>
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="4" class="slide-img"></li>
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="1" class="slide-img">first</li>
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="2" class="slide-img">second</li>
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="3" class="slide-img">third</li>
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="4" class="slide-img">fourth</li>
                         </ul>
 
                         <div id="prev-next-btns">
