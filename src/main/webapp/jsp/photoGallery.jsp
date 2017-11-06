@@ -22,23 +22,28 @@
 
             <!-- Banner -->
             <section id="banner">
-                <div class="content">
-                    <header>
-                        <h2>Фотогалерея</h2>
-                    </header>
-                    <div class="slider">
-                        <ul>
-                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
-                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
-                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
-                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
-                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
+                <div id="block-for-slider">
+                    <div id="viewport">
+                        <ul id="slidewrapper">
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="1" class="slide-img"></li>
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="2" class="slide-img"></li>
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="3" class="slide-img"></li>
+                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="4" class="slide-img"></li>
+                        </ul>
+
+                        <div id="prev-next-btns">
+                            <div id="prev-btn"></div>
+                            <div id="next-btn"></div>
+                        </div>
+
+                        <ul id="nav-btns">
+                            <li class="slide-nav-btn"></li>
+                            <li class="slide-nav-btn"></li>
+                            <li class="slide-nav-btn"></li>
+                            <li class="slide-nav-btn"></li>
                         </ul>
                     </div>
                 </div>
-                <%--<span class="image object">--%>
-										<%--<img src="../resources/images/pic10.jpg" alt=""/>--%>
-                <%--</span>--%>
             </section>
         </div>
     </div>

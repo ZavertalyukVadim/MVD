@@ -4069,47 +4069,97 @@ button:disabled,
 .dev-css { position:fixed; left:1em; top:1em; padding:1em; border-radius:7px; background-color: rgba(0, 0, 0, 0.6); color:#FFF
 }
 
-.slider {
-	z-index: 9;
-	width: 700px;
-	height: 290px;
-	overflow: hidden;
-	margin: 0 0 7px;
-	position: relative;
+body {
+	margin: 0;
+	padding: 0;
 }
-.slider ul,
-.slider li {
+
+#block-for-slider {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+#viewport {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	text-align: center;
+}
+
+#slidewrapper {
+	position: relative;
+	width: calc(100% * 4);
+	-webkit-transition: 1s;
+	-o-transition: 1s;
+	transition: 1s;
+	-webkit-transition-timing-function: cubic-bezier(.67,.01,.23,1);
+	-o-transition-timing-function: cubic-bezier(.67,.01,.23,1);
+	transition-timing-function: cubic-bezier(.67,.01,.23,1);
+}
+
+#slidewrapper, #slidewrapper ul, #slidewrapper li {
+	margin: 0;
+	padding: 0;
+}
+
+.slide {
+	width: calc(100%/4);
+	list-style: none;
+	display: inline;
+	float: left;
+}
+
+.slide-img {
+	width: 100%;
+}
+
+#prev-btn, #next-btn {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	background-color: #fff;
+	border-radius: 50%;
+	top: calc(50% - 25px);
+}
+
+#prev-btn:hover, #next-btn:hover {
+	cursor: pointer;
+}
+
+#prev-btn {
+	left: 20px;
+}
+
+#next-btn {
+	right: 20px;
+}
+
+#nav-btns {
+	position: absolute;
+	width: 100%;
+	bottom: 20px;
 	padding: 0;
 	margin: 0;
-	list-style-type: none;
+	text-align: center;
 }
-.slider ul {
-	width: 9999px;
+
+.slide-nav-btn {
+	position: relative;
+	display: inline-block;
+	list-style: none;
+	width: 20px;
+	height: 20px;
+	background-color: #fff;
+	border-radius: 50%;
+	margin: 3px;
 }
-.slider ul li {
-	list-style-type: none;
-	float: left;
-	width: 700px;
-	height: 290px;
-}
-.slider .nav {
-	position: absolute;
-	left: 15px;
-	bottom: 12px;
-}
-.slider .nav span {
-	opacity: 0.9;
-	background: #fff;
-	margin: 0 8px 0 0;
-	width: 16px;
-	height: 16px;
-	border-radius: 8px;
+
+.slide-nav-btn:hover {
 	cursor: pointer;
-	overflow: hidden;
-	display: block;
-	float: left;
-	box-shadow: 0 1px 2px #000;
-}
-.slider .nav span.on {
-	background: #2e9419;
 }
