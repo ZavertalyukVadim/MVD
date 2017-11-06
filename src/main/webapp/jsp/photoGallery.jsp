@@ -3,10 +3,11 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Довiдкова iнформацiя</title>
+    <title>Фотогалерея</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
 </head>
 <body>
 
@@ -25,14 +26,19 @@
                     <header>
                         <h2>Фотогалерея</h2>
                     </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
+                    <div class="slider">
+                        <ul>
+                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
+                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
+                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
+                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
+                            <li><img src="../resources/images/pic10.jpg" alt=""></li>
+                        </ul>
+                    </div>
                 </div>
-                <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
-                </span>
+                <%--<span class="image object">--%>
+										<%--<img src="../resources/images/pic10.jpg" alt=""/>--%>
+                <%--</span>--%>
             </section>
         </div>
     </div>
@@ -45,6 +51,7 @@
 <script src="<c:url value="../resources/assets/js/jquery.min.js"/>"></script>
 <script src="<c:url value="../resources/assets/js/skel.min.js"/>"></script>
 <script src="<c:url value="../resources/assets/js/util.js"/>"></script>
+<script src="<c:url value="../resources/assets/js/slider.js"/>"></script>
 <!--[if lte IE 8]>
 <script src="../resources/assets/js/ie/respond.min.js"></script><![endif]-->
 <script src="<c:url value="../resources/assets/js/main.js"/>"></script>
