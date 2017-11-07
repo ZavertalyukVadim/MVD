@@ -29,10 +29,10 @@
                     <a href="#" class="control_next">></a>
                     <a href="#" class="control_prev"><</a>
                     <ul>
-                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
-                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
-                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
-                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
+                        <li><img src="../resources/images/home%20—%20копия.JPG" alt=""/></li>
+                        <li><img src="../resources/images/home%20—%20копия.JPG" alt=""/></li>
+                        <li><img src="../resources/images/home%20—%20копия.JPG" alt=""/></li>
+                        <li><img src="../resources/images/home%20—%20копия.JPG" alt=""/></li>
                     </ul>
                 </div>
 
