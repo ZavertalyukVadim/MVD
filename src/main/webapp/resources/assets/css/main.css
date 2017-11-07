@@ -4068,98 +4068,68 @@ button:disabled,
 }
 .dev-css { position:fixed; left:1em; top:1em; padding:1em; border-radius:7px; background-color: rgba(0, 0, 0, 0.6); color:#FFF
 }
-
-body {
-	margin: 0;
-	padding: 0;
-}
-
-#block-for-slider {
-	width: 80%;
-	margin: 0 auto;
-	margin-top: 100px;
-}
-
-#viewport {
-	width: 100%;
+#slider {
 	position: relative;
 	overflow: hidden;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	-o-user-select: none;
-	user-select: none;
-	text-align: center;
+	margin: 20px auto 0 auto;
+	border-radius: 4px;
 }
 
-#slidewrapper {
+#slider ul {
 	position: relative;
-	width: calc(100% * 4);
-	-webkit-transition: 1s;
-	-o-transition: 1s;
-	transition: 1s;
-	-webkit-transition-timing-function: cubic-bezier(.67,.01,.23,1);
-	-o-transition-timing-function: cubic-bezier(.67,.01,.23,1);
-	transition-timing-function: cubic-bezier(.67,.01,.23,1);
-}
-
-#slidewrapper, #slidewrapper ul, #slidewrapper li {
 	margin: 0;
 	padding: 0;
+	height: 200px;
+	list-style: none;
 }
 
-.slide {
-	width: calc(100%/4);
-	list-style: none;
-	display: inline;
+#slider ul li {
+	position: relative;
+	display: block;
 	float: left;
-}
-
-.slide-img {
-	width: 100%;
-}
-
-#prev-btn, #next-btn {
-	position: absolute;
-	width: 50px;
-	height: 50px;
-	background-color: #fff;
-	border-radius: 50%;
-	top: calc(50% - 25px);
-}
-
-#prev-btn:hover, #next-btn:hover {
-	cursor: pointer;
-}
-
-#prev-btn {
-	left: 20px;
-}
-
-#next-btn {
-	right: 20px;
-}
-
-#nav-btns {
-	position: absolute;
-	width: 100%;
-	bottom: 20px;
-	padding: 0;
 	margin: 0;
+	padding: 0;
+	width: 500px;
+	height: 300px;
+	background: #ccc;
 	text-align: center;
+	line-height: 300px;
 }
 
-.slide-nav-btn {
-	position: relative;
-	display: inline-block;
-	list-style: none;
-	width: 20px;
-	height: 20px;
-	background-color: #fff;
-	border-radius: 50%;
-	margin: 3px;
-}
-
-.slide-nav-btn:hover {
+a.control_prev, a.control_next {
+	position: absolute;
+	top: 40%;
+	z-index: 999;
+	display: block;
+	padding: 4% 3%;
+	width: auto;
+	height: auto;
+	background: #2a2a2a;
+	color: #fff;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 18px;
+	opacity: 0.8;
 	cursor: pointer;
+}
+
+a.control_prev:hover, a.control_next:hover {
+	opacity: 1;
+	-webkit-transition: all 0.2s ease;
+}
+
+a.control_prev {
+	border-radius: 0 2px 2px 0;
+}
+
+a.control_next {
+	right: 0;
+	border-radius: 2px 0 0 2px;
+}
+
+.slider_option {
+	position: relative;
+	margin: 10px auto;
+	width: 160px;
+	font-size: 18px;
 }

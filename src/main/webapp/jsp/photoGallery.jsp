@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
     <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="../resources/assets/js/slider.js"></script>
 </head>
 <body>
 
@@ -22,28 +23,19 @@
 
             <!-- Banner -->
             <section id="banner">
-                <div id="block-for-slider">
-                    <div id="viewport">
-                        <ul id="slidewrapper">
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="1" class="slide-img">first</li>
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="2" class="slide-img">second</li>
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="3" class="slide-img">third</li>
-                            <li class="slide"><img src="../resources/images/pic10.jpg" alt="4" class="slide-img">fourth</li>
-                        </ul>
 
-                        <div id="prev-next-btns">
-                            <div id="prev-btn"></div>
-                            <div id="next-btn"></div>
-                        </div>
-
-                        <ul id="nav-btns">
-                            <li class="slide-nav-btn"></li>
-                            <li class="slide-nav-btn"></li>
-                            <li class="slide-nav-btn"></li>
-                            <li class="slide-nav-btn"></li>
-                        </ul>
-                    </div>
+                <h1></h1>
+                <div id="slider">
+                    <a href="#" class="control_next">></a>
+                    <a href="#" class="control_prev"><</a>
+                    <ul>
+                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
+                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
+                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
+                        <li><img src="../resources/images/pic10.jpg" alt=""/></li>
+                    </ul>
                 </div>
+
             </section>
         </div>
     </div>
