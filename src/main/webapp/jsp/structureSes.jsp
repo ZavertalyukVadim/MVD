@@ -25,6 +25,10 @@
                     <header>
                         <h2>CТРУКТУРА САНІТАРНО – ЕПІДЕМІОЛОГІЧНОЇ СТАНЦІЇ</h2>
                     </header>
+                    <span class="image fit"><img src="../resources/images/Yakubovska.JPG" alt=""/><p class="centerText">Начальник станції - лікар
+                                    Якубовська Олеся
+                                    Миколаївна</p></span>
+
                     <div class="table-wrapper">
                         <table class="alt">
                             <thead>
