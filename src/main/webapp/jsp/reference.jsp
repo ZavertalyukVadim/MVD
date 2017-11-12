@@ -7,6 +7,8 @@
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="../resources/assets/js/slider.js"></script>
 </head>
 <body>
 
@@ -20,19 +22,30 @@
             <jsp:include page="../jsp/header.jsp"/>
 
             <!-- Banner -->
-            <section id="banner">
-                <div class="content">
-                    <header>
-                        <h2>Довiдкова iнформацiя</h2>
-                    </header>
-                    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum
-                        congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris.
-                        Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac
-                        quam. Lorem ipsum dolor sit nullam.</p>
+            <section>
+
+                <header>
+                    <h2>Довiдкова iнформацiя</h2>
+                </header>
+                <div id="slider">
+                    <a href="#" class="control_next">></a>
+                    <a href="#" class="control_prev"><</a>
+                    <ul>
+                        <li><span class="image main"><img src="../resources/images/medpolicia/1поліклініка.JPG"
+                                                         alt=""/><p>Поліклініка </p></span></li>
+                        <li><span class="image main"><img
+                                src="../resources/images/medpolicia/2%20кабінет%20гінеколога%20оснащений%20сучасним%20%20кольпоскопом.JPG"
+                                alt=""/><p>Кабінет гінеколога оснащений сучасним  кольпоскопом</p></span></li>
+                        <li><span class="image main"><img
+                                src="../resources/images/medpolicia/3%20стоматологічна%20допомога.jpg"
+                                alt=""/>
+                            <p>Стоматологічна допомога</p></span></li>
+                        <li><span class="image main"><img
+                                src="../resources/images/medpolicia/4%20кабінет%20офтальмолога.JPG" alt=""/>
+                            <p>Кабінет офтальмолога</p></span></li>
+                    </ul>
                 </div>
-                <span class="image object">
-										<img src="../resources/images/pic10.jpg" alt=""/>
-                </span>
+
             </section>
         </div>
     </div>
