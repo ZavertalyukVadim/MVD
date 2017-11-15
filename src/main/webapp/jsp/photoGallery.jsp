@@ -23,54 +23,54 @@
             <section id="banner">
                 <div class="content">
                     <h1>Фотогалерея</h1>
-                    <span class="image main"><img src="../resources/images/medpolicia/1поліклініка.JPG" alt=""/><p
+                    <span class="image main"><img src="../resources/images/medpolicia/1.JPG" alt=""/><p
                             class="centerText">Поліклініка</p></span>
                     <span class="image main"><img
-                            src="../resources/images/medpolicia/2%20кабінет%20гінеколога%20оснащений%20сучасним%20%20кольпоскопом.JPG"
+                            src="../resources/images/medpolicia/2.JPG"
                             alt=""/><p
                             class="centerText"> Кабінет гінеколога оснащений сучасним  кольпоскопом</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/3%20стоматологічна%20допомога.jpg"
+                    <span class="image main"><img src="../resources/images/medpolicia/3.jpg"
                                                   alt=""/><p class="centerText"> Стоматологічна допомога</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/4%20кабінет%20офтальмолога.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/4.JPG "
                                                   alt=""/><p class="centerText"> Кабінет офтальмолога</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/5%20кабінет%20офтальмолога.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/5.JPG "
                                                   alt=""/><p class="centerText"> Кабінет офтальмолога</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/6%20кабінет%20офтальмолога.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/6.JPG "
                                                   alt=""/><p class="centerText">Кабінет офтальмолога </p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/7%20клінічна%20лабораторія.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/7.JPG "
                                                   alt=""/><p class="centerText"> Клінічна лабораторія</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/8%20клінічна%20лабораторія.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/8.JPG "
                                                   alt=""/><p class="centerText"> Клінічна лабораторія</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/9%20клінічна%20лабораторія.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/9.JPG "
                                                   alt=""/><p class="centerText"> Клінічна лабораторія</p></span>
                     <span class="image main"><img
-                            src="../resources/images/medpolicia/10%20біохімічна%20лабораторія.JPG "
+                            src="../resources/images/medpolicia/10.JPG "
                             alt=""/><p class="centerText">Біохімічна лабораторія </p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/11%20рентгенкабінет.JPG " alt=""/><p
+                    <span class="image main"><img src="../resources/images/medpolicia/11.JPG " alt=""/><p
                             class="centerText">Рентгенкабінет </p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/12%20рентгенкабінет.JPG " alt=""/><p
+                    <span class="image main"><img src="../resources/images/medpolicia/12.JPG " alt=""/><p
                             class="centerText"> Рентгенкабінет</p></span>
                     <span class="image main"><img
-                            src="../resources/images/medpolicia/13%20кабінет%20функціональної%20діагностики.JPG "
+                            src="../resources/images/medpolicia/13.JPG "
                             alt=""/><p
                             class="centerText"> Кабінет функціональної діагностики</p></span>
                     <span class="image main"><img
-                            src="../resources/images/medpolicia/14%20кабінет%20функціональної%20діагностики.JPG "
+                            src="../resources/images/medpolicia/14.JPG "
                             alt=""/><p
                             class="centerText"> Кабінет функціональної діагностики</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/15%20кабінет%20УЗД.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/15.JPG "
                                                   alt=""/><p
                             class="centerText">Кабінет УЗД </p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/16%20кабінет%20УЗД.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/16.JPG "
                                                   alt=""/><p
                             class="centerText">Кабінет УЗД </p></span>
                     <span class="image main"><img
-                            src="../resources/images/medpolicia/17%20маніпуляційний%20кабінет%20поліклініки.JPG "
+                            src="../resources/images/medpolicia/17.JPG "
                             alt=""/><p
                             class="centerText">Маніпуляційний кабінет поліклініки </p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/18%20кабінет%20щеплень.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/18.JPG "
                                                   alt=""/><p class="centerText"> Кабінет щеплень</p></span>
-                    <span class="image main"><img src="../resources/images/medpolicia/19%20ендоскопічний%20кабінет.JPG "
+                    <span class="image main"><img src="../resources/images/medpolicia/19.JPG "
                                                   alt=""/><p class="centerText">Ендоскопічний кабінет </p></span>
 
                 </div>
