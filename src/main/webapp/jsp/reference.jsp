@@ -31,7 +31,7 @@
                     <a href="#" class="control_next">></a>
                     <a href="#" class="control_prev"><</a>
                     <ul>
-                        <li><span class="image main"><img src="../resources/images/medpolicia/1поліклініка.JPG"
+                        <li><span class="image main"><img src="../resources/images/medpolicia/1.JPG"
                                                          alt=""/><p>Поліклініка </p></span></li>
                         <li><span class="image main"><img
                                 src="../resources/images/medpolicia/2%20кабінет%20гінеколога%20оснащений%20сучасним%20%20кольпоскопом.JPG"
