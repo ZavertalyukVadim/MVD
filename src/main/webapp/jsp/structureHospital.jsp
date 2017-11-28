@@ -29,6 +29,9 @@
                             <span class="image fit"><img src="../resources/images/Tylpa2.JPG" alt="" />
                                 <p class="centerText">Начальник лікарні (з поліклінікою) - Тюльпа Сергій Андрійович, лікар вищої
                                     категорії. Очолює лікарню з 1982р.</p></span>
+                    <br>
+                    <span class="image fit"><img src="../resources/images/chornoivanchenko.JPG" alt="" />
+                                <p class="centerText"> Головна медична сестра лікарні (з поліклінікою) - Чорноіваненко Галина Іванівна</p></span>
                             <ul>
                                 <li><a href="/structure/hospital/polyclinic">Полiклiнiка</a></li>
                                 <li><a href="/structure/hospital/therapy">Терапевтичне відділення</a></li>
