@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>САНІТАРНО – ЕПІДЕМІОЛОГІЧНА СТАНЦІЯ</title>
+    <title>Центр превентивної медицини</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h2>CТРУКТУРА САНІТАРНО – ЕПІДЕМІОЛОГІЧНОЇ СТАНЦІЇ</h2>
+                        <h2>CТРУКТУРА Центра превентивної медицини</h2>
                     </header>
                     <span class="image fit"><img src="../resources/images/Yakubovska.JPG" alt=""/><p class="centerText">Начальник станції - лікар
                                     Якубовська Олеся

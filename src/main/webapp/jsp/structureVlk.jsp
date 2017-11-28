@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>ВЛК</title>
+    <title>М(ВЛ)К</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -23,7 +23,7 @@
             <section id="banner">
                 <div class="content">
                     <header>
-                        <h2>Структура ВЛК</h2>
+                        <h2>Структура Медичної (військово-лікарської) комісії</h2>
                     </header>
                     <span class="image fit"><img src="../resources/images/Garbar.JPG" alt=""/><p class="centerText">Голова комісії – Гарбар Людмила Миколаївна.</p></span>
                     <p>Лікар-терапевт – Краснодимська Олена Михайлівна</p>
