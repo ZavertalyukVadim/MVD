@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Довiдкова iнформацiя</title>
+    <title>Повідомити про корупцію</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -22,10 +22,22 @@
             <!-- Banner -->
             <section id="banner">
                 <div class="content">
-                    <ul>
-                        <li><a href="/sendAboutCorruption/second">Телефон довіри</a></li>
-                        <li><a href="/sendAboutCorruption/first">Довiдковi документи</a></li>
-                    </ul>
+                    <header>
+                        <h2>Повідомити про корупцію</h2>
+                    </header>
+                    <object data="../../resources/files/nakaz.pdf" type="application/pdf" width="1000" height="800">
+                        <embed src="../resources/files/nakaz.pdf" type="application/pdf" ></embed>
+                    </object>
+                    <br>
+                    <br>
+                    <object data="../../resources/files/zavdannya.pdf" type="application/pdf" width="1000" height="800">
+                        <embed src="../resources/files/zavdannya.pdf" type="application/pdf" ></embed>
+                    </object>
+                    <br>
+                    <br>
+                    <object data="../../resources/files/zvit.pdf" type="application/pdf" width="1000" height="800">
+                        <embed src="../resources/files/zvit.pdf" type="application/pdf" ></embed>
+                    </object>
                 </div>
 
             </section>

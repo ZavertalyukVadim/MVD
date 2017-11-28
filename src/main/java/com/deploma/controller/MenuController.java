@@ -35,6 +35,14 @@ public class MenuController {
         return "sendAboutCorruption";
     }
 
+    @GetMapping(value = "/sendAboutCorruption/first")
+    public String sendAboutCorruptionFirst(){
+        return "sendAboutCorruptionFirst";
+    }
+    @GetMapping(value = "/sendAboutCorruption/second")
+    public String sendAboutCorruptionSecond(){
+        return "sendAboutCorruptionSecond";
+    }
     @GetMapping(value = "/informationForPublication")
     public String informationForPublication(){
         return "informationForPublication";

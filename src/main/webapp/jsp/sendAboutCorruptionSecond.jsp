@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Довiдкова iнформацiя</title>
+    <title>Телефон довіри</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -22,18 +22,18 @@
             <!-- Banner -->
             <section id="banner">
                 <div class="content">
-                    <ul>
-                        <li><a href="/sendAboutCorruption/second">Телефон довіри</a></li>
-                        <li><a href="/sendAboutCorruption/first">Довiдковi документи</a></li>
-                    </ul>
-                </div>
+                    <header>
+                        <h2>Телефон довіри</h2>
+                    </header>
 
+                    <p> Державна установа «Територіальне медичне об'єднання МВС України по Черкаській області»  запровадила «телефон довіри» з питань запобігання та протидії корупції.</p>
+                    <p> «Телефон довіри» працює з 8.30 до 16.30 з понеділка по п’ятницю (крім державних свят), номер телефону (0472) 45-11-41 45-21-15</p>
+                  <h4>Кожне ваше звернення буде уважно вивчене, а про результати Вам повідомлять особисто.</h4>
+                </div>
             </section>
         </div>
     </div>
-
     <jsp:include page="../jsp/sidebar.jsp"/>
-
 </div>
 
 <!-- Scripts -->
