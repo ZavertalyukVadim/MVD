@@ -25,7 +25,7 @@
                     <header>
                         <h2>CТРУКТУРА Центра превентивної медицини</h2>
                     </header>
-                    <span class="image fit"><img src="../resources/images/Yakubovska.JPG" alt=""/><p class="centerText">Начальник станції - лікар
+                    <span class="image fit"><img src="../resources/images/Yakubovska.JPG" alt=""/><p class="centerText">Начальник Центру - лікар
                                     Якубовська Олеся
                                     Миколаївна</p></span>
 
@@ -45,7 +45,7 @@
                             </thead>
                             <tbody>
                             <tr>
-                                <td>Начальник станції - лікар
+                                <td>Начальник Центру - лікар
                                     Якубовська Олеся
                                     Миколаївна
                                 </td>

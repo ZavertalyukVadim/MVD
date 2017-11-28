@@ -26,12 +26,12 @@
                         <li><a href="/activity/mo">Медичнi огляди</a></li>
                         <li><a href="/activity/vle">Вiйськово-лiкарська єкспертиза</a></li>
                         <li><a href="/activity/ptpd">Психiатрична та психологiчна допомога</a></li>
-                        <li><a href="/activity/ses">Санiтарно-епiдемiологiчна станцiя</a></li>
+                        <li><a href="/activity/ses">Центр превентивної медицини</a></li>
                     </ul>
                 </li>
                 <li><a href="/skltr">Санаторно-курортне лiкування та реабiлiтацiя</a></li>
-                <li><a href="/sendAboutCorruption">Повідомити про корупцію</a></li>
-                <li><a href="/informationForPublication">Iнформація для оприлюднення</a></li>
+                <li><a href="/sendAboutCorruption">Запобiгання корупцiї</a></li>
+                <%--<li><a href="/informationForPublication">Iнформація для оприлюднення</a></li>--%>
                 <li><a href="/history">Icторiя закладу</a></li>
                 <li><a href="/photoGallery">Фото галерея</a></li>
                 <li><a href="/paid">Платнi послуги</a></li>
