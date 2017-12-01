@@ -35,13 +35,21 @@ public class MenuController {
         return "sendAboutCorruption";
     }
 
-    @GetMapping(value = "/sendAboutCorruption/first")
-    public String sendAboutCorruptionFirst(){
-        return "sendAboutCorruptionFirst";
+    @GetMapping(value = "/sendAboutCorruption/antukoripcia")
+    public String sendAboutCorruptionAntukoripcia(){
+        return "sendAboutCorruptionAntukoripcia";
     }
-    @GetMapping(value = "/sendAboutCorruption/second")
-    public String sendAboutCorruptionSecond(){
-        return "sendAboutCorruptionSecond";
+    @GetMapping(value = "/sendAboutCorruption/zavdannya")
+    public String sendAboutCorruptionZavdannya(){
+        return "sendAboutCorruptionZavdannya";
+    }
+    @GetMapping(value = "/sendAboutCorruption/zvit")
+    public String sendAboutCorruptionZvit(){
+        return "sendAboutCorruptionZvit";
+    }
+    @GetMapping(value = "/sendAboutCorruption/phone")
+    public String sendAboutCorruptionPhone(){
+        return "sendAboutCorruptionPhone";
     }
     @GetMapping(value = "/informationForPublication")
     public String informationForPublication(){

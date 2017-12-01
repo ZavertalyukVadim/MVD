@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Довiдкова iнформацiя</title>
+    <title>Повідомити про корупцію</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../resources/assets/css/font-awesome.min.css"/>
@@ -22,12 +22,13 @@
             <!-- Banner -->
             <section id="banner">
                 <div class="content">
-                    <ul>
-                        <li><a href="/sendAboutCorruption/antukoripcia">Антикорупційна програма</a></li>
-                        <li><a href="/sendAboutCorruption/zavdannya">Завдання і заходи щодо запобігання і протидії корупції</a></li>
-                        <li><a href="/sendAboutCorruption/zvit">Звіт за результатами оцінки корупційних ризиків</a></li>
-                        <li><a href="/sendAboutCorruption/phone">Телефон довіри</a></li>
-                    </ul>
+                    <header>
+                        <h3> Наказ про затвердження Антикорупційної програми ТМО по Черкаській області</h3>
+                    </header>
+                    <object data="../../resources/files/nakaz.pdf" type="application/pdf" width="900" height="800">
+                        <embed src="../resources/files/nakaz.pdf" type="application/pdf"></embed>
+                    </object>
+
                 </div>
 
             </section>
