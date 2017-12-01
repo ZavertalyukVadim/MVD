@@ -31,6 +31,7 @@
                         <div class="4u$"><span class="image fit"><img src="../resources/images/sertificateIso-page-001.jpg" alt="" /></span></div>
                     </div>
                 </div>
+                <span class="image fit"><img src="../resources/images/politika.png" alt="" /></span>
                 <p> Державна установа ″Територіальне медичне об′єднання МВС
                     України по Черкаській області″ - є самостійним державним
                     багатопрофільним закладом охорони здоров′я, що належить до сфери
