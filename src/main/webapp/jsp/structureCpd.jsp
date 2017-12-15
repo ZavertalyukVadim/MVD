@@ -26,7 +26,7 @@
                         <h2>Структура Центру психіатричноі допомоги та професійного психофізіологічного відбору</h2>
                     </header>
                     <span class="image fit"><img src="../resources/images/Borsch.JPG" alt=""/><p class="centerText">
-                        Начальник Центру, лікар-психіат -Борщ Олексій Васильович </p></span>
+                        Начальник Центру, лікар-психіатр -Борщ Олексій Васильович </p></span>
                     <div class="table-wrapper">
                         <table class="alt">
                             <caption><h3>Начальник Центру, лікар-психіатр</h3></caption>
