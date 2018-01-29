@@ -48,11 +48,11 @@
             <p>Понедiлок - П'ятниця з 8.30 до 17.00</p>
             <ul class="contact">
                 <li class="fa-envelope-o">vmz_cherk@ukr.net</li>
-                <li class="fa-phone">45-21-15 (Приймальна)</li>
+                <li class="fa-phone">33-43-20 (Приймальна)</li>
                 <li class="fa-phone">37-51-55 (Реєстратура)</li>
-                <li class="fa-phone">45-10-05 (Терапевтичне вiддiлення)</li>
-                <li class="fa-phone">45-11-49 (Неврологiчне вiддiлення)</li>
-                <li class="fa-phone">45-10-18, 45-10-21 (Черговий лiкар в вечiрнiй та нiчний час, не робочi днi)</li>
+                <li class="fa-phone">33-43-09 (Терапевтичне вiддiлення)</li>
+                <li class="fa-phone">33-43-17 (Неврологiчне вiддiлення)</li>
+                <li class="fa-phone">33-43-10, 33-43-12 (Черговий лiкар в вечiрнiй та нiчний час, не робочi днi)</li>
 
                 <li class="fa-home">18009, м.Черкаси<br/>
                     вул. Грузиненка 1
