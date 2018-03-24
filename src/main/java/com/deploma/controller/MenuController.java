@@ -15,11 +15,6 @@ public class MenuController {
         return "history";
     }
 
-    @GetMapping(value = "/reference")
-    public String reference() {
-        return "reference";
-    }
-
     @GetMapping(value = "/paid")
     public String paid() {
         return "paid";
