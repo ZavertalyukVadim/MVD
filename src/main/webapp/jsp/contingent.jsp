@@ -29,6 +29,9 @@
                                 <p class="centerText">Начальник установи <br>
                       Заворітній Володимир Григорович</p></span>
                     <hr class="major"/>
+                    <span class="image fit"><img src="../../resources/images/Saluik.JPG" alt=""/><p class="centerText">Заступник начальника з медичних питань <br>
+                        Салюк Тетяна Василівна</p></span>
+                    <hr class="major"/>
                     <span class="image fit"><img src="../resources/images/Pidgorna.JPG" alt=""/>
                                 <p class="centerText">Заступник начальника з економічних питань <br>
                       Підгорна Тетяна Олегівна</p></span>
