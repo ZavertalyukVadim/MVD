@@ -35,8 +35,6 @@
                 <li><a href="/history">Icторiя закладу</a></li>
                 <li><a href="/photoGallery">Фото галерея</a></li>
                 <li><a href="/paid">Платнi послуги</a></li>
-                <li><a href="/reference">Довiдкова iнформацiя</a></li>
-
             </ul>
         </nav>
         <!-- Section -->
