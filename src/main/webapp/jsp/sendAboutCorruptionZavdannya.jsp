@@ -33,9 +33,10 @@
                     <object data="../../resources/files/zavdannya.pdf" type="application/pdf" width="900" height="800">
                         <embed src="../resources/files/zavdannya.pdf" type="application/pdf"></embed>
                     </object>
-
+                </div>
 
             </section>
+            <jsp:include page="../jsp/footer.jsp"/>
         </div>
     </div>
 

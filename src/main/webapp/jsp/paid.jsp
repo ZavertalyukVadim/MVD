@@ -1040,6 +1040,7 @@
                     </div>
                 </div>
             </section>
+            <jsp:include page="../jsp/footer.jsp"/>
         </div>
     </div>
 

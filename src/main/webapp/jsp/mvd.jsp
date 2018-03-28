@@ -206,7 +206,7 @@
                     </li>
                 </ol>
             </section>
-
+            <jsp:include page="../jsp/footer.jsp"/>
         </div>
     </div>
     <jsp:include page="../jsp/sidebar.jsp"/>

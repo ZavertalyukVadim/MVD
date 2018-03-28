@@ -35,6 +35,7 @@
                         quam. Lorem ipsum dolor sit nullam.</p>
                 </div>
             </section>
+            <jsp:include page="../jsp/footer.jsp"/>
         </div>
     </div>
 
