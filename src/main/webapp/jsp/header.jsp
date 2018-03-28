@@ -5,4 +5,8 @@
     <ul class="icons">
         <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
     </ul>
+    <meta name="description" content="Державна установа ″Територіальне медичне об′єднання МВС
+                    України по Черкаській області″"/>
+    <meta name="keywords" content="Державна установа ″Територіальне медичне об′єднання МВС
+                    України по Черкаській області″"/>
 </header>

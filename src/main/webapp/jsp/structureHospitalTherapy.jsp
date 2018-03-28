@@ -7,6 +7,10 @@
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../../resources/assets/css/main.css"/>
     <link rel="stylesheet" href="../../resources/assets/css/font-awesome.min.css"/>
+    <meta name="description" content="Державна установа ″Територіальне медичне об′єднання МВС
+                    України по Черкаській області″"/>
+    <meta name="keywords" content="Державна установа ″Територіальне медичне об′єднання МВС
+                    України по Черкаській області″"/>
 </head>
 <body>
 
