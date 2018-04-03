@@ -1,8 +1,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE HTML>
-<html>
-<head>
+<html><html  prefix="og: http://ogp.me/ns#"><head>
     <title>Icторiя закладу</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="../resources/assets/css/main.css"/>
@@ -11,6 +10,10 @@
                     України по Черкаській області″"/>
     <meta name="keywords" content="Державна установа ″Територіальне медичне об′єднання МВС
                     України по Черкаській області″"/>
+    <meta property="og:title" content="Державна установа ″Територіальне медичне об′єднання МВС
+                    України по Черкаській області″">
+    <meta property="og:description" content="Icторiя закладу">
+    <meta property="og:type" content="website">
 </head>
 <body>
 
@@ -303,6 +306,7 @@
             <jsp:include page="../jsp/footer.jsp"/>
         </div>
     </div>
+    <jsp:include page="../jsp/sidebar.jsp"/>
 </div>
 
 <!-- Scripts -->

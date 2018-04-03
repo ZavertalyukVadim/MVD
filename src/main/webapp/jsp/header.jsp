@@ -9,4 +9,8 @@
                     України по Черкаській області″"/>
     <meta name="keywords" content="Державна установа ″Територіальне медичне об′єднання МВС
                     України по Черкаській області″"/>
+    <meta property="og:title" content="Державна установа ″Територіальне медичне об′єднання МВС
+                    України по Черкаській області″">
+    <meta property="og:description" content="header">
+    <meta property="og:type" content="website">
 </header>
