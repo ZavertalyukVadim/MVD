@@ -41,18 +41,17 @@
                     <span class="image fit"><img src="../resources/images/chornoivanchenko.JPG" alt="" />
                                 <p class="centerText"> Головна медична сестра лікарні (з поліклінікою) - Чорноіваненко Галина Іванівна</p></span>
                             <ul>
-                                <li><a href="/structure/hospital/polyclinic">Полiклiнiка</a></li>
-                                <li><a href="/structure/hospital/therapy">Терапевтичне відділення</a></li>
-                                <li><a href="/structure/hospital/neurology">Неврологічне відділення</a></li>
-                                <li><a href="/structure/hospital/supportsServices">Параклiнiчнi служби</a></li>
+                                <li><a href="/structureHospitalPolyclinic">Полiклiнiка</a></li>
+                                <li><a href="/structureHospitalTherapy">Терапевтичне відділення</a></li>
+                                <li><a href="/structureHospitalNeurology">Неврологічне відділення</a></li>
+                                <li><a href="/structureHospitalSupportsServices">Параклiнiчнi служби</a></li>
                             </ul>
                 </div>
             </section>
-            <jsp:include page="../jsp/footer.jsp"/>
+            <div class="footer" title="../jsp/footer.jsp"></div>
         </div>
     </div>
-
-    <jsp:include page="../jsp/sidebar.jsp"/>
+    <div class="sidebar" title="../jsp/sidebar.jsp"></div>
 </div>
 
 <!-- Scripts -->

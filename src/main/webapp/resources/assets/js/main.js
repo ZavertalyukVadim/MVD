@@ -9,12 +9,12 @@ $(".header").each(function(){
         inc.replaceWith(data);
     });
 });
-$(".footer").each(function(){
-    var inc=$(this);
-    $.get(inc.attr("title"), function(data){
-        inc.replaceWith(data);
-    });
-});
+// $(".footer").each(function(){
+//     var inc=$(this);
+//     $.get(inc.attr("title"), function(data){
+//         inc.replaceWith(data);
+//     });
+// });
 $(".sidebar").each(function(){
     var inc=$(this);
     $.get(inc.attr("title"), function(data){

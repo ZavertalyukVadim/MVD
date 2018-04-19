@@ -31,19 +31,19 @@
             <section id="banner">
                 <div class="content">
                     <ul>
-                        <li><a href="/sendAboutCorruption/antukoripcia">Антикорупційна програма</a></li>
-                        <li><a href="/sendAboutCorruption/zavdannya">Завдання і заходи щодо запобігання і протидії корупції</a></li>
-                        <li><a href="/sendAboutCorruption/zvit">Звіт за результатами оцінки корупційних ризиків</a></li>
-                        <li><a href="/sendAboutCorruption/phone">Телефон довіри</a></li>
+                        <li><a href="/sendAboutCorruptionAntukoripcia">Антикорупційна програма</a></li>
+                        <li><a href="/sendAboutCorruptionZavdannya">Завдання і заходи щодо запобігання і протидії корупції</a></li>
+                        <li><a href="/sendAboutCorruptionZvit">Звіт за результатами оцінки корупційних ризиків</a></li>
+                        <li><a href="/sendAboutCorruptionPhone">Телефон довіри</a></li>
                     </ul>
                 </div>
 
             </section>
-            <jsp:include page="../jsp/footer.jsp"/>
+            <div class="footer" title="../jsp/footer.jsp"></div>
         </div>
     </div>
 
-    <jsp:include page="../jsp/sidebar.jsp"/>
+    <div class="sidebar" title="../jsp/sidebar.jsp"></div>
 
 </div>
 

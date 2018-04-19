@@ -44,10 +44,10 @@
                     </ul>
                 </div>
             </section>
-            <jsp:include page="../jsp/footer.jsp"/>
+            <div class="footer" title="../jsp/footer.jsp"></div>
         </div>
     </div>
-    <jsp:include page="../jsp/sidebar.jsp"/>
+    <div class="sidebar" title="../jsp/sidebar.jsp"></div>
 </div>
 
 <script src="../../resources/assets/js/jquery.min.js"></script>

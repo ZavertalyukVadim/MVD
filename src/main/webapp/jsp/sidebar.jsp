@@ -1,4 +1,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<header>
+    <script src="../resources/assets/js/jquery.min.js"></script>
+    <script src="../resources/assets/js/skel.min.js"></script>
+    <script src="../resources/assets/js/util.js"></script>
+    <!--[if lte IE 8]>
+    <script src="../resources/assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="../resources/assets/js/main.js"></script>
+</header>
 <div id="sidebar">
     <div class="inner">
         <!-- Menu -->
@@ -12,21 +20,21 @@
                 <li>
                     <span class="opener">Структура закладу</span>
                     <ul>
-                        <li><a href="/structure/hospital">Лiкарня (з полiклiнiкою)</a></li>
-                        <li><a href="/structure/vlk">Медична (вiйськово-лiкарська) комiсiя</a></li>
-                        <li><a href="/structure/cpd">Центр психiатричної допомоги та професiйного психофiзiологiчного
+                        <li><a href="/structureHospital">Лiкарня (з полiклiнiкою)</a></li>
+                        <li><a href="/structureVlk">Медична (вiйськово-лiкарська) комiсiя</a></li>
+                        <li><a href="/structureCpd">Центр психiатричної допомоги та професiйного психофiзiологiчного
                             вiдбору</a></li>
-                        <li><a href="/structure/ses">Центр превентивної медицини</a></li>
+                        <li><a href="/structuresSes">Центр превентивної медицини</a></li>
                     </ul>
                 </li>
                 <li>
                     <span class="opener">Напрямки дiяльностi</span>
                     <ul>
-                        <li><a href="/activity/ldr">Лiкувально-дiагностична робота</a></li>
-                        <li><a href="/activity/mo">Медичнi огляди</a></li>
-                        <li><a href="/activity/vle">Вiйськово-лiкарська єкспертиза</a></li>
-                        <li><a href="/activity/ptpd">Психiатрична та психологiчна допомога</a></li>
-                        <li><a href="/activity/ses">Центр превентивної медицини</a></li>
+                        <li><a href="/activityLdr">Лiкувально-дiагностична робота</a></li>
+                        <li><a href="/activityMo">Медичнi огляди</a></li>
+                        <li><a href="/activityVle">Вiйськово-лiкарська єкспертиза</a></li>
+                        <li><a href="/activityPtpd">Психiатрична та психологiчна допомога</a></li>
+                        <li><a href="/activitySes">Центр превентивної медицини</a></li>
                     </ul>
                 </li>
                 <li><a href="/skltr">Санаторно-курортне лiкування та реабiлiтацiя</a></li>

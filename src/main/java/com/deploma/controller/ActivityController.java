@@ -5,30 +5,30 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping(value = "/activity")
+@RequestMapping
 public class ActivityController {
 
-    @GetMapping(value = "/vle")
+    @GetMapping(value = "/activityVle")
     public String vle(){
         return "activityVle";
     }
 
-    @GetMapping(value = "/ldr")
+    @GetMapping(value = "/activityLdr")
     public String ldr(){
         return "activityLdr";
     }
 
-    @GetMapping(value = "/mo")
+    @GetMapping(value = "/activityMo")
     public String mo(){
         return "activityMo";
     }
 
-    @GetMapping(value = "/ptpd")
+    @GetMapping(value = "/activityPtpd")
     public String ptpd(){
         return "activityPtpd";
     }
 
-    @GetMapping(value = "/ses")
+    @GetMapping(value = "/activitySes")
     public String Ses(){
         return "activitySes";
     }
