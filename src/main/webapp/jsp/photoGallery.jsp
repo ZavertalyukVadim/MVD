@@ -89,14 +89,11 @@
 
 </div>
 
-<!-- Scripts -->
-<script src="<c:url value="../resources/assets/js/jquery.min.js"/>"></script>
-<script src="<c:url value="../resources/assets/js/skel.min.js"/>"></script>
-<script src="<c:url value="../resources/assets/js/util.js"/>"></script>
-<script src="<c:url value="../resources/assets/js/slider.js"/>"></script>
-<!--[if lte IE 8]>
+<script src="../resources/assets/js/jquery.min.js"></script>
+<script src="../resources/assets/js/skel.min.js"></script>
+<script src="../resources/assets/js/util.js"></script>
 <script src="../resources/assets/js/ie/respond.min.js"></script><![endif]-->
-<script src="<c:url value="../resources/assets/js/main.js"/>"></script>
+<script src="../resources/assets/js/main.js"></script>
 
 </body>
 </html>
