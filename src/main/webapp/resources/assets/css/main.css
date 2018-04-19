@@ -4133,3 +4133,7 @@ a.control_next {
 	width: 160px;
 	font-size: 18px;
 }
+iframe[seamless] {
+	border: none;
+	overflow: hidden;
+}
