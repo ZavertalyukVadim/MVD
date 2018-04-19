@@ -24,9 +24,7 @@
     <!-- Main -->
     <div id="main">
         <div class="inner">
-
-            <jsp:include page="../jsp/header.jsp"/>
-
+            <div class="header" title="../jsp/header.jsp"></div>
             <!-- Banner -->
             <section id="banner">
                 <div class="content">

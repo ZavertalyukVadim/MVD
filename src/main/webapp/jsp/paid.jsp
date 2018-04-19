@@ -1,7 +1,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE HTML>
-<html  prefix="og: http://ogp.me/ns#">
+<html prefix="og: http://ogp.me/ns#">
 <head>
     <title>Платнi послуги</title>
     <meta charset="utf-8"/>
@@ -24,9 +24,7 @@
     <!-- Main -->
     <div id="main">
         <div class="inner">
-
-            <jsp:include page="../jsp/header.jsp"/>
-
+            <div class="header" title="../jsp/header.jsp"></div>
             <!-- Banner -->
             <section id="banner">
                 <div class="content">
@@ -983,7 +981,8 @@
                             </tr>
                             <tr>
                                 <td colspan="1"></td>
-                                <td><h4>Проведення попереднього при влаштуванні на роботу та періодичних медичних оглядів
+                                <td><h4>Проведення попереднього при влаштуванні на роботу та періодичних медичних
+                                    оглядів
                                     працівників підприємств та організацій:</h4>
                                 </td>
                                 <td colspan="0"></td>
